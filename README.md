@@ -4,8 +4,8 @@
 
 > I build AI and Data Science solutions that help industries improve efficiency and profitability.
 
- Fueled by Espresso ☕
+Fueled by Espresso ☕
 
 <div align="center">
-<img src="assets/espresso.jpg" width="400" height="300" />
+<img src="assets/espresso.jpg" width="300" height="200" />
 </div>
