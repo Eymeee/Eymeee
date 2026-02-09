@@ -1,1 +1,6 @@
-## Hi, I am Aymane SALHI
+# Hi, I'm Aymane 👋
+
+**AI Engineer/Specialist | Data Scientist**
+
+> I build AI and Data Science solutions that help industries improve efficiency and profitability.
+
