@@ -6,6 +6,3 @@
 
 Fueled by Espresso ☕
 
-<div align="center">
-<img src="assets/espresso.jpg" width="300" height="200" />
-</div>
