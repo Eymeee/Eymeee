@@ -6,7 +6,7 @@ AI Engineer/Specialist | Data Scientist
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=30&duration=4000&pause=30&color=E70060&background=FFFFFF00&center=true&multiline=true&repeat=false&width=750&height=85&lines=+I+build+AI+and+Data+Science+solutions;that+help+industries+improve+efficiency+and+profitability)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=30&duration=4000&pause=30&color=E70060&background=FFFFFF00&center=true&multiline=true&repeat=true&width=750&height=85&lines=+I+build+AI+and+Data+Science+solutions;that+help+industries+improve+efficiency+and+profitability)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -17,7 +17,7 @@ AI Engineer/Specialist | Data Scientist
 
 <div align="center">  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=28&duration=2000&pause=30&color=E70060&background=FFFFFF00&center=true&multiline=true&repeat=false&height=40&lines=%E2%98%95+~+Fueled+by+Espresso+~+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=24&duration=4000&pause=30&color=E70060&background=FFFFFF00&center=true&multiline=true&repeat=true&height=40&lines=%E2%98%95+~+Fueled+by+Espresso+~+%E2%98%95)](https://git.io/typing-svg)
 </div>
 
 ---
