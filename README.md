@@ -1,5 +1,5 @@
 <h1 align="center">
-AI Engineer/Specialist | Data Scientist
+AI Engineer | Data Scientist
 </h1>
 
 ---
