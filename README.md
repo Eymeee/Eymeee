@@ -12,10 +12,10 @@ AI Engineer | Data Scientist
 ---
 
 <p align="center">  
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700" height="700"/>
+<img src="https://i.redd.it/njjzqnbdy1na1.gif" width="700" height="700"/>
 </p>
 
 <div align="center">  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=24&duration=4000&pause=30&color=FFFFFFFF&background=FFFFFF00&center=true&multiline=true&repeat=true&height=40&lines=%E2%98%95+~+Fueled+by+Espresso+~+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=20&duration=4000&pause=30&color=FFFFFFFF&background=FFFFFF00&center=true&multiline=true&repeat=true&height=40&lines=%E2%98%95+~+Fueled+by+Espresso+~+%E2%98%95)](https://git.io/typing-svg)
 </div>
