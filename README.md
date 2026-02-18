@@ -14,8 +14,3 @@ AI Engineer | Data Scientist
 <p align="center">  
 <img src="https://i.redd.it/njjzqnbdy1na1.gif" width="700" height="700"/>
 </p>
-
-<div align="center">  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=20&duration=4000&pause=30&color=FFFFFFFF&background=FFFFFF00&center=true&multiline=true&repeat=true&height=40&lines=%E2%98%95+~+Fueled+by+Espresso+~+%E2%98%95)](https://git.io/typing-svg)
-</div>
