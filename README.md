@@ -5,7 +5,7 @@
 
 ### **AI Engineer | Data Scientist** — Rabat, Morocco 🌍
 
-I just like working on AI and Data Science related projects, with a cup of coffee ☕
+I just like working on AI and Data Science projects, with a cup of coffee ☕
 
 <p align="center">
 <img alt="Eymeee Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Eymeee&bg_color=0d1117&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
