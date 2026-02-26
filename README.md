@@ -3,7 +3,7 @@
 
 ## Hi, I'am SALHI Aymane
 
-### **AI Engineer | Data Scientist** — Rabat, Morocco
+### **AI Engineer | Data Scientist** — Rabat, Morocco 🌍
 
 I just like working on AI and Data Science related projects, with a cup of coffee ☕
 
