@@ -1,16 +1,13 @@
-<h1 align="center">
-AI Engineer | Data Scientist
-</h1>
+## Hi, I'am SALHI Aymane
 
----
+### **AI Engineer | Data Scientist** — Rabat, Morocco
 
-<div align="center">
+> I just like working on AI and Data Science related projects, that's it.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=30&duration=4000&pause=30&color=FFFFFFFF&background=FFFFFF00&center=true&multiline=true&repeat=true&width=750&height=85&lines=Building+AI+and+Data+Science+solutions;that+help+industries+improve+efficiency+and+profitability)](https://git.io/typing-svg)
-</div>
-
----
-
-<p align="center">  
-<img src="https://i.redd.it/njjzqnbdy1na1.gif" width="700" height="700"/>
+<p align="center">
+  <img alt="Eymeee Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Eymeee&bg_color=0d1117&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 </p>
+ 
+### Socials
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salhi-aymane-19546b315)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salhiaymane909@gmail.com)
