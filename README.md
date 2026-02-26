@@ -1,3 +1,5 @@
+<img src="./assets/mario_coding.gif">
+
 ## Hi, I'am SALHI Aymane
 
 ### **AI Engineer | Data Scientist** — Rabat, Morocco
