@@ -12,9 +12,11 @@ I just like working on AI and Data Science projects, with a cup of coffee ☕
 <img src="https://komarev.com/ghpvc/?username=Eymeee&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
+---
+
 <div align="center">
  
-![Eymeee's GitHub contributions](https://github.pumbas.net/api/contributions/Eymeee?colour=FFFFFF&dotColour=00E0FF)
+![Eymeee's GitHub contributions](https://github.pumbas.net/api/contributions/Eymeee?colour=0009D5&bgColour=FFFFFF&dotColour=000000&borderRadius=15)
 </div>
  
 ## Socials
