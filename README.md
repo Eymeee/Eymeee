@@ -8,13 +8,14 @@
 I just like working on AI and Data Science projects, with a cup of coffee ☕
 </div>
 
-<p align="center">
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=Eymeee&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+</div>
 
-<p align="center">
-<img alt="Eymeee Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Eymeee&bg_color=0d1117&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-</p>
+<div align="center">
+ 
+![Eymeee's GitHub contributions](https://github.pumbas.net/api/contributions/Eymeee?colour=FFFFFF&dotColour=00E0FF)
+</div>
  
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salhi-aymane-19546b315)
