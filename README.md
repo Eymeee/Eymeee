@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/mario_coding.gif">
+<img src="./assets/mario_coding1.gif">
 
 # Hi, I'm SALHI Aymane
 
